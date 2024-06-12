@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nurajisaputro
-- 👀 I’m interested in tecnologi
-- 🌱 I’m currently learning a tecnologi
-- 💞️ I’m looking to collaborate on my life
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning technology
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i like a noodles
